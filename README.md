@@ -3,5 +3,5 @@
 cd to your project then run:
 
 ```
-docker run --rm -it -v `pwd`:/app TO-DO-DOCKER-NAME check ./relative/path/to/target/
+docker run --rm -it -v `pwd`:/app davidpugh/no-verify check ./relative/path/to/target/
 ```
